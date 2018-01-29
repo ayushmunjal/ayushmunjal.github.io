@@ -38,3 +38,13 @@ Q:\Ayush\GutHub - Demo - Projects\TestApi\obj\Debug\netcoreapp2.0\TestApi.Assemb
 Q:\Ayush\GutHub - Demo - Projects\TestApi\obj\Debug\netcoreapp2.0\TestApi.AssemblyInfo.cs
 Q:\Ayush\GutHub - Demo - Projects\TestApi\obj\Debug\netcoreapp2.0\TestApi.dll
 Q:\Ayush\GutHub - Demo - Projects\TestApi\obj\Debug\netcoreapp2.0\TestApi.pdb
+Q:\Ayush\Github\ProfileRepo\TestApi\bin\Debug\netcoreapp2.0\TestApi.deps.json
+Q:\Ayush\Github\ProfileRepo\TestApi\bin\Debug\netcoreapp2.0\TestApi.runtimeconfig.json
+Q:\Ayush\Github\ProfileRepo\TestApi\bin\Debug\netcoreapp2.0\TestApi.runtimeconfig.dev.json
+Q:\Ayush\Github\ProfileRepo\TestApi\bin\Debug\netcoreapp2.0\TestApi.dll
+Q:\Ayush\Github\ProfileRepo\TestApi\bin\Debug\netcoreapp2.0\TestApi.pdb
+Q:\Ayush\Github\ProfileRepo\TestApi\obj\Debug\netcoreapp2.0\TestApi.csproj.CoreCompileInputs.cache
+Q:\Ayush\Github\ProfileRepo\TestApi\obj\Debug\netcoreapp2.0\TestApi.AssemblyInfoInputs.cache
+Q:\Ayush\Github\ProfileRepo\TestApi\obj\Debug\netcoreapp2.0\TestApi.AssemblyInfo.cs
+Q:\Ayush\Github\ProfileRepo\TestApi\obj\Debug\netcoreapp2.0\TestApi.dll
+Q:\Ayush\Github\ProfileRepo\TestApi\obj\Debug\netcoreapp2.0\TestApi.pdb

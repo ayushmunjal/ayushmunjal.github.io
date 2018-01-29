@@ -12541,11 +12541,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Q:\\Ayush\\GutHub - Demo - Projects\\TestApi\\TestApi.csproj",
+      "projectUniqueName": "Q:\\Ayush\\Github\\ProfileRepo\\TestApi\\TestApi.csproj",
       "projectName": "TestApi",
-      "projectPath": "Q:\\Ayush\\GutHub - Demo - Projects\\TestApi\\TestApi.csproj",
+      "projectPath": "Q:\\Ayush\\Github\\ProfileRepo\\TestApi\\TestApi.csproj",
       "packagesPath": "C:\\Users\\qutyj\\.nuget\\packages\\",
-      "outputPath": "Q:\\Ayush\\GutHub - Demo - Projects\\TestApi\\obj\\",
+      "outputPath": "Q:\\Ayush\\Github\\ProfileRepo\\TestApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
