@@ -1,5 +1,5 @@
 {
-  "main.css": "/SMtemplate/static/css/main.e127d5f2.chunk.css",
+  "main.css": "/SMtemplate/static/css/main.b45ae98a.chunk.css",
   "main.js": "/SMtemplate/static/js/main.3cfcb2a1.chunk.js",
   "main.js.map": "/SMtemplate/static/js/main.3cfcb2a1.chunk.js.map",
   "runtime~main.js": "/SMtemplate/static/js/runtime~main.24e1d240.js",
@@ -7,9 +7,9 @@
   "static/js/2.c954e993.chunk.js": "/SMtemplate/static/js/2.c954e993.chunk.js",
   "static/js/2.c954e993.chunk.js.map": "/SMtemplate/static/js/2.c954e993.chunk.js.map",
   "index.html": "/SMtemplate/index.html",
-  "precache-manifest.d74d4d1a218267eca28a1651e8fd289e.js": "/SMtemplate/precache-manifest.d74d4d1a218267eca28a1651e8fd289e.js",
+  "precache-manifest.ea98405b224d807ad03741d147844639.js": "/SMtemplate/precache-manifest.ea98405b224d807ad03741d147844639.js",
   "service-worker.js": "/SMtemplate/service-worker.js",
-  "static/css/main.e127d5f2.chunk.css.map": "/SMtemplate/static/css/main.e127d5f2.chunk.css.map",
+  "static/css/main.b45ae98a.chunk.css.map": "/SMtemplate/static/css/main.b45ae98a.chunk.css.map",
   "static/media/blog-post.1.md": "/SMtemplate/static/media/blog-post.1.9dbfaeb9.md",
   "static/media/blog-post.2.md": "/SMtemplate/static/media/blog-post.2.8c6ad8d3.md",
   "static/media/blog-post.3.md": "/SMtemplate/static/media/blog-post.3.d564ecc8.md"
